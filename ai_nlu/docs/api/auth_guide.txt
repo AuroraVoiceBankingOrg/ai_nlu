@@ -1,0 +1,2 @@
+# auth_guide.txt
+# Text file for notes, documentation.

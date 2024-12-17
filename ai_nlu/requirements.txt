@@ -1,0 +1,6 @@
+numpy
+scipy
+transformers
+spacy
+requests
+torch

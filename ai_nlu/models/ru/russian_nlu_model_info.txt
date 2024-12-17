@@ -1,0 +1,2 @@
+# russian_nlu_model_info.txt
+# Text file for notes, documentation.

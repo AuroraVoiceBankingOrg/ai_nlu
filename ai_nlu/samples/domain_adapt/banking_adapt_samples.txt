@@ -1,0 +1,2 @@
+# banking_adapt_samples.txt
+# Text file for notes, documentation.

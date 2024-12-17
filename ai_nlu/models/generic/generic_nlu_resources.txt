@@ -1,0 +1,2 @@
+# generic_nlu_resources.txt
+# Text file for notes, documentation.
